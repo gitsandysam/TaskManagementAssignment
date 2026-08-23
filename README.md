@@ -73,7 +73,8 @@ When you want to forcefully reload, for example to reset the state of your app, 
 
 ## Videos
 
-Find the App demo video and code overview under Documentation folder.
+Find the App demo video and code overview under Documentation folder on this link
+https://drive.google.com/drive/folders/1EjCTHRTWP1GiG243HY_0eUJ9j9CoGv6V?usp=share_link.
 
 ## Congratulations! :tada:
 
